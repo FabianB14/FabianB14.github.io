@@ -1,0 +1,56 @@
+html {
+      Height: 100%;
+      background: url(https://www.jpl.nasa.gov/assets/images/content/tmp/home/missions_bg_image.jpg)
+
+
+      }
+body header {
+        color: white;
+        text-align: center;
+        font-size: 25px;
+            }
+nav ul li {
+       color: #A9A9A9;
+       display: inline-block;
+       margin-left: 150px;
+       margin-right: 100px;
+       font-size: 30px;
+        }
+        nav ul li a{
+          color : blue;
+        }
+        nav ul li a:hover{
+          color: purple;
+        }
+        nav ul li a:active{
+          color: red;
+        }
+
+          }
+
+header  {
+        color: white;
+        display: center;
+        }
+section {
+      display: inline-block;
+      margin-left: auto;
+      margin-right: auto;
+      color: white;
+}
+section li {
+        display: inline-block;
+        color: white;
+        margin-left: 100px;
+        margin-right: 100px;
+}
+section li img {
+          width: 200px;
+          height: 150px;
+}
+#bot section {
+        display: inline-block;
+        color: white;
+        margin-left: 150px;
+        margin-right: 100px;
+}
